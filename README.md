@@ -52,7 +52,8 @@ app.js
    1.  Download all Project files
    2.  Run `npm install` to install all required dependancies &packages .
    3.  Run `nodemon app.js`
-   3.  open browser [Restful BlockChain API App](http://localhost:8000/book/0)
+   3.  open browser [Restful BlockChain API App](http://localhost:8000/book/5)
+   4.  data example:`{"success":true,"data":{"hash":"8860167ee6ecca0a44e2b9112b5a2c9ca744920073d401c9557ce9afc7b86756","height":5,"body":"this is data for testing","time":"1537745553","previousBlockHash":"71ebff7e5abb01b898cc81a728650e365f8e1791b0174f66076de45f4a69a24a"}}`
   
  
 # Test
@@ -63,12 +64,10 @@ app.js
 
 # Resources
  
-   1. [React Library](https://facebook.github.io/react/)
-   2. [Create React App](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)
-   3. [Create React updates-Webpack2](https://facebook.github.io/react/blog/2017/05/18/whats-new-in-create-react-app.html)
-   4. [React Form and select element](https://facebook.github.io/react/docs/forms.html)
-   5. [Short-circuit evaluation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators#Short-circuit_evaluation)
-   6. [React Router v4](https://tylermcginnis.com/build-your-own-react-router-v4/)
-   7. [Using a function in `setState` instead of an object](https://medium.com/@shopsifter/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1)
-   8. [Eslint Rules](http://eslint.org/)
-   9. [Heroku Cloud](https://devcenter.heroku.com/)
+   1. [Expressjs](https://www.npmjs.com/package/express)
+   2. [Ava-Assertion](https://github.com/avajs/ava-assert)
+   3. [AVA Testing](https://github.com/avajs/ava)
+   4. [Superr Test](https://www.npmjs.com/package/supertest)
+   5. [Nodemon server](https://github.com/remy/nodemon)
+   6. [Body Parser](https://www.npmjs.com/package/body-parser)
+   7. [Level DB](https://www.npmjs.com/package/level)
