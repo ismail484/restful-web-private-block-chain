@@ -52,7 +52,7 @@ app.js
    1.  Download all Project files
    2.  Run `npm install` to install all required dependancies &packages .
    3.  Run `nodemon app.js`
-   3.  open browser [MyReads App](http://localhost:8000/book/0)
+   3.  open browser [Restful BlockChain API App](http://localhost:8000/book/0)
   
  
 # Test
